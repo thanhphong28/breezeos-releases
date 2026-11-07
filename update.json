@@ -1,17 +1,17 @@
 ﻿{
-  "versionCode": 701,
-  "versionName": "7.0.1",
-  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.1/BreezeOS.apk",
-  "sha256": "f7e73db0a5b7014b898be8cc64c211eec4948904e073f1213b01ae7a8fb3ed0b",
+  "versionCode": 702,
+  "versionName": "7.0.2",
+  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.2/BreezeOS.apk",
+  "sha256": "609d7ec1263fda602de0a4cc3f428237d94ba14c65604fc175a350fb050c2e3c",
   "size": 23412674,
   "notes": {
-    "vi": "BreezeOS 7.0.1: Tinh chinh chuyen dong folder muot ma, loai bo Hoi Breeze AI, toi uu Cai dat bieu tuong & tien ich chuyen nghiep",
-    "en": "Official BreezeOS update 7.0.1"
+    "vi": "BreezeOS 7.0.2: Khac phuc triet de loi NoSuchMethodError crash khi mo Cai dat tren Android 17 / One UI",
+    "en": "Official BreezeOS update 7.0.2"
   },
   "changes": {
     "vi": {
       "added": [
-        "Bản cập nhật 7.0.1 mới nhất"
+        "Bản cập nhật 7.0.2 mới nhất"
       ],
       "fixed": [
         "Cải thiện độ ổn định và hiệu năng hệ thống"
