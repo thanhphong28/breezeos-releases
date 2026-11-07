@@ -1,0 +1,27 @@
+{
+  "versionCode": 700,
+  "versionName": "7.0.0",
+  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.0/BreezeOS.apk",
+  "sha256": "86da598bc064b6e8b5a62c72975617fa18955365a8265c3c58b8a3e330d4d6d5",
+  "size": 23412674,
+  "notes": {
+    "vi": "Phiên bản BreezeOS 7.0.0 chính thức với hệ thống cập nhật OTA tự động.",
+    "en": "Official BreezeOS 7.0.0 release with automatic OTA update support."
+  },
+  "changes": {
+    "vi": {
+      "added": [
+        "Hỗ trợ kiểm tra và cập nhật phần mềm trực tiếp từ Cài đặt",
+        "Loại bỏ hoàn toàn Trung tâm điều khiển và Trợ lý AI",
+        "Hiệu ứng chuyển cảnh và folder siêu mượt"
+      ],
+      "fixed": [
+        "Sửa lỗi giật khựng khi kéo thả ứng dụng",
+        "Tối ưu hóa quản lý widget và pin"
+      ],
+      "removed": [
+        "Trung tâm điều khiển và Trợ lý Breeze AI"
+      ]
+    }
+  }
+}
