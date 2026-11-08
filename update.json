@@ -1,17 +1,17 @@
 ﻿{
-  "versionCode": 703,
-  "versionName": "7.0.3",
-  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.3/BreezeOS.apk",
-  "sha256": "783dd29ccad7a97134696ec8c5b53ba595e683b7dccd8a10c081f7f31068ea3f",
+  "versionCode": 704,
+  "versionName": "7.0.4",
+  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.4/BreezeOS.apk",
+  "sha256": "e1afddc966775730d2a087d79570c0f6fce99b2edabebd372cd19f7dc03522eb",
   "size": 23658434,
   "notes": {
-    "vi": "Cap nhat logo BreezeOS chinh thuc tren man hinh Cap nhat he thong; Sua thu muc 2x2 thanh hinh tron 1:1 chuan liquid glass, icon tron deu dep mat.",
-    "en": "Official BreezeOS update 7.0.3"
+    "vi": "Sua loi hien thi chuoi ten phien ban; Loai bo triet de cu chi vuot va lop phu mo (overlay) Trung tam dieu khien.",
+    "en": "Official BreezeOS update 7.0.4"
   },
   "changes": {
     "vi": {
       "added": [
-        "Bản cập nhật 7.0.3 mới nhất"
+        "Bản cập nhật 7.0.4 mới nhất"
       ],
       "fixed": [
         "Cải thiện độ ổn định và hiệu năng hệ thống"
