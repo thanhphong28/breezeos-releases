@@ -1,17 +1,17 @@
 ﻿{
-  "versionCode": 708,
-  "versionName": "7.0.8",
-  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.8/BreezeOS.apk",
-  "sha256": "2a074f1acd13667c309b964cf524b29f7fb9d3c06d419aa4d8a3b065004fe142",
-  "size": 23666626,
+  "versionCode": 709,
+  "versionName": "7.0.9",
+  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.9/BreezeOS.apk",
+  "sha256": "c17e1bd9e82653e47e50abe200dc38a72ed26f0d63e2ac0eb7e19bab437c3034",
+  "size": 25166603,
   "notes": {
-    "vi": "Fix crash NoSuchMethodError trong bo xu ly icon Liquid Glass, giup tat ca ung dung render on dinh tuyet doi va bo icon trong suot hoan toan khong con mau app goc.",
-    "en": "Official BreezeOS update 7.0.8"
+    "vi": "Bản cập nhật BreezeOS 7.0.9: Đồng bộ trọn bộ icon Liquid Glass & Dark chính thức từ Comet V6.1.3 (78 biểu tượng vẽ lại cao cấp); tối ưu hiệu ứng mở ứng dụng rebuilt app reveal, hiệu ứng mở khóa blur-zoom và phóng to chỉnh sửa êm ái.",
+    "en": "Official BreezeOS update 7.0.9"
   },
   "changes": {
     "vi": {
       "added": [
-        "Bản cập nhật 7.0.8 mới nhất"
+        "Bản cập nhật 7.0.9 mới nhất"
       ],
       "fixed": [
         "Cải thiện độ ổn định và hiệu năng hệ thống"
