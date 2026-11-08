@@ -1,17 +1,17 @@
 ﻿{
-  "versionCode": 710,
-  "versionName": "7.0.10",
-  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.10/BreezeOS.apk",
-  "sha256": "93fec088d15d2ddb93fdf14b57dd00838ffae91b9d9e55efc88366c3bb7ac9a9",
-  "size": 23666626,
+  "versionCode": 711,
+  "versionName": "7.0.11",
+  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.11/BreezeOS.apk",
+  "sha256": "4ccbea1a31eab34373a731e5c8cdd151697365ed65f90c1175faac8416576e71",
+  "size": 24433419,
   "notes": {
-    "vi": "Ban cap nhat BreezeOS 7.0.10 (Rollback): Khoi phuc ve phien ban on dinh 7.0.8, khac phuc hoan toan loi xung dot giao dien va vang ung dung.",
-    "en": "Official BreezeOS update 7.0.10"
+    "vi": "BreezeOS 7.0.11: Ra mat 4 kieu bieu tuong app (Mac dinh, Toi, Doi mau, Trong suot Liquid Glass); Logo BreezeOS moi khong con logo cu; Giao dien cap nhat va chao mung sang trong doc quyen - Design by Breeze Boy; Toi uu phan hoi 120Hz.",
+    "en": "Official BreezeOS update 7.0.11"
   },
   "changes": {
     "vi": {
       "added": [
-        "Bản cập nhật 7.0.10 mới nhất"
+        "Bản cập nhật 7.0.11 mới nhất"
       ],
       "fixed": [
         "Cải thiện độ ổn định và hiệu năng hệ thống"
