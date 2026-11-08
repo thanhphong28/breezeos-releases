@@ -1,17 +1,17 @@
 ﻿{
-  "versionCode": 706,
-  "versionName": "7.0.6",
-  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.6/BreezeOS.apk",
-  "sha256": "961b714daa9e8a673ffef2eb5a35b91a339fa1d3ee49d2538e9c58f314bf6139",
+  "versionCode": 707,
+  "versionName": "7.0.7",
+  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.7/BreezeOS.apk",
+  "sha256": "00366ff8abc1df01e042299274cdc98dfbd8ed7746a5ac73341feec9371c3b1d",
   "size": 23666626,
   "notes": {
-    "vi": "Nang cap thuat toan tach nen bieu tuong Liquid Glass thong minh cho tat ca ung dung ben thu 3 (Vietcombank, Facebook, MoMo, LinkedIn,...); loai bo hoan toan goc trang loi va vien vuong dac; can chinh ti le bieu tuong va hieu ung do bong 3D kinh pha le cao cap.",
-    "en": "Official BreezeOS update 7.0.6"
+    "vi": "Bo icon Trong suot (Liquid Glass) thuan khiet 100% kinh mo pha le: Toan bo bieu tuong ung dung duoc cham khac trang trong suot nhin xuyen qua hinh nen (khong con mau goc cua app), tu dong boc tach va loai bo the mau vuong (MoMo, Shopee, Vietcombank, Facebook, Zalo,...), chuan phong cach iOS 18 / VisionOS glass muot ma 120Hz khong lag.",
+    "en": "Official BreezeOS update 7.0.7"
   },
   "changes": {
     "vi": {
       "added": [
-        "Bản cập nhật 7.0.6 mới nhất"
+        "Bản cập nhật 7.0.7 mới nhất"
       ],
       "fixed": [
         "Cải thiện độ ổn định và hiệu năng hệ thống"
