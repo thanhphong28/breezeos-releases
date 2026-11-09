@@ -1,8 +1,8 @@
-﻿{
+{
   "versionCode": 716,
   "versionName": "7.0.16",
   "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.16/BreezeOS.apk",
-  "sha256": "93d6d1335fe297e32f3321dae8a6e2078d9cc22e3e9a9aca1639b1a0ff36bdb9",
+  "sha256": "5d4645892eba6a3adad9c951b7ec4d1ccc9d2282b4c757d7aff4fa4942cd7c5a",
   "size": 24793867,
   "notes": {
     "vi": "Sua triet de loi VerifyError trong CometWordmark tren Android 17, phuc hoi hieu ung Liquid Glass cho widget, cap nhat logo va hinh nen Onboarding BreezeOS 7",
