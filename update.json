@@ -1,22 +1,30 @@
-{
-  "versionCode": 716,
-  "versionName": "7.0.16",
-  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.16/BreezeOS.apk",
-  "sha256": "5d4645892eba6a3adad9c951b7ec4d1ccc9d2282b4c757d7aff4fa4942cd7c5a",
-  "size": 24793867,
+﻿{
+  "versionCode": 717,
+  "versionName": "7.0.17",
+  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.17/BreezeOS.apk",
+  "sha256": "3ba7c8bb35a2596586f6ff957ec34139a3e5cf0d6376173d353221f4df8018ae",
+  "size": 69621774,
   "notes": {
-    "vi": "Sua triet de loi VerifyError trong CometWordmark tren Android 17, phuc hoi hieu ung Liquid Glass cho widget, cap nhat logo va hinh nen Onboarding BreezeOS 7",
-    "en": "Official BreezeOS update 7.0.16"
+    "vi": "BreezeOS 7.0.17: Dynamic Island, Double Tap to Lock, Glass Color icons, remove World Clock and Discord, UI fixes",
+    "en": "Official BreezeOS update 7.0.17"
   },
   "changes": {
     "vi": {
       "added": [
-        "Bản cập nhật 7.0.16 mới nhất"
+        "Tích hợp Dynamic Island (không cần quyền trợ năng, an toàn tuyệt đối cho app ngân hàng)",
+        "Tính năng chạm 2 lần vào màn hình để khóa máy (Double Tap to Lock)",
+        "Kiểu biểu tượng thứ 5: Kính màu (Glass Color) và logic Đổi màu (Tinted)",
+        "Tối ưu giao diện Cài đặt và cập nhật luồng Onboarding BreezeOS 7"
       ],
       "fixed": [
+        "Xóa bỏ hoàn toàn mục Đồng hồ thế giới và đăng nhập Discord",
+        "Khắc phục triệt để lỗi văng app khi kiểm tra cập nhật mới nhất",
         "Cải thiện độ ổn định và hiệu năng hệ thống"
       ],
-      "removed": []
+      "removed": [
+        "Đồng hồ thế giới",
+        "Liên kết tài khoản Discord"
+      ]
     }
   }
 }
