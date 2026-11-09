@@ -1,17 +1,17 @@
 ﻿{
-  "versionCode": 714,
-  "versionName": "7.0.14",
-  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.14/BreezeOS.apk",
-  "sha256": "85ce08d2bdc203386986c22a8b26de98b2767349a9b0ddfb6733e06b0a9517fe",
+  "versionCode": 715,
+  "versionName": "7.0.15",
+  "url": "https://github.com/thanhphong28/breezeos-releases/releases/download/v7.0.15/BreezeOS.apk",
+  "sha256": "7565be91729966443038371d98e93723f0e73208c0525f6ca5973110126321ab",
   "size": 25531147,
   "notes": {
-    "vi": "Kich hoat Onboarding BreezeOS 7 tren moi thiet bi, sua loi hieu ung liquid glass tren widget, loai bo Discord, fix loi font va logo",
-    "en": "Official BreezeOS update 7.0.14"
+    "vi": "Sua triet de loi VerifyError tren Android 17, dam bao Onboarding va Liquid Glass hoat dong on dinh 100% khong crash",
+    "en": "Official BreezeOS update 7.0.15"
   },
   "changes": {
     "vi": {
       "added": [
-        "Bản cập nhật 7.0.14 mới nhất"
+        "Bản cập nhật 7.0.15 mới nhất"
       ],
       "fixed": [
         "Cải thiện độ ổn định và hiệu năng hệ thống"
